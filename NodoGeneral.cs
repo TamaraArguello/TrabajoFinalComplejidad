@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace tp3
+namespace TrabajoFinalComplejidad
 {
 	/// <summary>
 	/// Description of NodoGeneral.
