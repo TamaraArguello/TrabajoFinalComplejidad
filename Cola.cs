@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace tp1
+namespace TrabajoFinalComplejidad
 {
 	/// <summary>
 	/// Description of Cola.
