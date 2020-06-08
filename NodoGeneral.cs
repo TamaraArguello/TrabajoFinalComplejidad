@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TrabajoFinalComplejidad
+namespace TP_Arguello
 {
 	/// <summary>
 	/// Description of NodoGeneral.

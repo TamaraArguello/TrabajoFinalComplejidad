@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TrabajoFinalComplejidad
+namespace TP_Arguello
 {
 	public class ArbolGeneral<T>
 	{
@@ -48,7 +48,7 @@ namespace TrabajoFinalComplejidad
 			return this.raiz != null && this.getHijos().Count == 0;
 		}
 
-		public int altura()
+		/*public int altura()
 		{
 			int contador_altura = 0;
 			int contador_altura_provisorio = 0;
@@ -118,7 +118,7 @@ namespace TrabajoFinalComplejidad
 				}
 			}
 			return contador_nivel++;
-		}
+		}*/
 
 	}
 }
